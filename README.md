@@ -33,3 +33,6 @@ This project was created to practice **database connectivity**, **GUI developmen
 1. The user interacts with a clean, button-based GUI built using Swing.
 2. Each action (Add, Delete, Refresh, Exit) triggers JDBC code that communicates with the backend database.
 3. Data is updated in real-time and reflected in the interface.
+
+### Link to database
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=studentdb&table=studentreg
