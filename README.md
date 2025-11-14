@@ -8,25 +8,25 @@ This project is a simple **Student Registration System** built using **Java Swin
   Enter student details and save them directly to the database.
 
 * **Delete Student**
-  Remove an existing student’s record with a single click.
+  Remove an existing student’s record.
 
 * **Refresh Data**
   Instantly reload and display the latest student information after any operation.
 
 * **Exit Application**
-  Close the system safely using the exit button.
+  Close the system using the exit button.
 
 ### Technologies Used
 
 * **Java (JDK)**
 * **JDBC** for database connectivity
-* **MySQL / Any SQL Database**
+* **MySQL**
 * **Java Swing (JFrames)** for GUI
 * **NetBeans IDE**
 
 ###Purpose of the Project
 
-This project was created to practice **database connectivity**, **GUI development**, and **basic CRUD operations** in Java. It serves as a foundation for understanding how desktop applications interact with a database.
+This project was created to practice **database connectivity**, **GUI development**, and **basic CRUD operations** in Java.
 
 ### How It Works
 
