@@ -24,7 +24,7 @@ This project is a simple **Student Registration System** built using **Java Swin
 * **Java Swing (JFrames)** for GUI
 * **NetBeans IDE**
 
-###Purpose of the Project
+### Purpose of the Project
 
 This project was created to practice **database connectivity**, **GUI development**, and **basic CRUD operations** in Java.
 
